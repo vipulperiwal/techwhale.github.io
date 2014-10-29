@@ -12,8 +12,8 @@ font-size: 40px;
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 10px;
+    padding-left: 10px;
     text-align: left;
     
 }
