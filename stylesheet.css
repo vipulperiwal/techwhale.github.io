@@ -16,6 +16,9 @@ ul {
     padding-right: 10px;
 }
 
+ul h3 {
+   text-align: left; 
+
 li {
     display: inline;
     text-align: right;
