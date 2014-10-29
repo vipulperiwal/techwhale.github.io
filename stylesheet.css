@@ -12,7 +12,7 @@ font-size: 40px;
 
 ul {
     list-style-type: none;
-    text-align: right;
+    text-align: left;
     padding-right: 10px;
 }
 
@@ -21,7 +21,7 @@ h3 {
 
 li {
     display: inline;
-    text-align: right;
+    text-align: left;
     
 }
 .nav {
