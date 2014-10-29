@@ -24,10 +24,8 @@ li {
     
     
 }
-.nav{
-text-align: center;
-text-decoration: none;
-
+a {
+    text-decoration: none;
 }
 .container img{
 width: 20%%;
