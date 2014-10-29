@@ -17,6 +17,7 @@ ul {
 
 li {
     display: inline;
+    text-align: right;
     
 }
 .nav {
@@ -31,5 +32,7 @@ height: 20%;
 margin-right: 50%;
 margin-left: 40%;
 }
-
+ul h1 {
+    text-align: left;
+}
 
