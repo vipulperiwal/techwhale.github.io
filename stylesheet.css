@@ -22,8 +22,11 @@ li {
     
     
 }
-a {
+.nav {
 text-decoration: none;
+}
+a {
+    text-decoration: none;
 }
 .container img{
 width: 20%%;
